@@ -1,12 +1,25 @@
-h1{
-    color: Black;
+
+ html {
+    background: url(https://i0.wp.com/windowscustomization.com/wp-content/uploads/2018/10/star-wars.gif?fit=750%2C364&quality=80&strip=all&ssl=1) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     
-    
-}
-h2{
-    color: black;
-    
-}
-div{
+  }
+  
+  
+  body {
     text-align: center;
-}
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    
+
+    color: #fff;
+    padding: 20px;
+    
+    font-size: 25px;
+    letter-spacing: 10px;
+    font: 20px "Lato", sans-serif;
+  }
+  
